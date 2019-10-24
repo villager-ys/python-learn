@@ -1,4 +1,4 @@
-#迭代器测试
+# 迭代器测试
 
 # a_list = [1, 2, 3]
 # for i in iter(a_list):
@@ -36,6 +36,6 @@
 # lambda表达式
 
 def add(x, y):
-    return x+y
-lambda x, y: x+y
+    return x + y
+lambda x, y: x + y
 print(add(3, 4))
